@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/react-clear-cache/static/css/main.37e69313.chunk.css",
-    "main.js": "/react-clear-cache/static/js/main.7ff4ab35.chunk.js",
-    "main.js.map": "/react-clear-cache/static/js/main.7ff4ab35.chunk.js.map",
-    "runtime~main.js": "/react-clear-cache/static/js/runtime~main.4c7bbbe2.js",
-    "runtime~main.js.map": "/react-clear-cache/static/js/runtime~main.4c7bbbe2.js.map",
-    "static/js/2.3123b45d.chunk.js": "/react-clear-cache/static/js/2.3123b45d.chunk.js",
-    "static/js/2.3123b45d.chunk.js.map": "/react-clear-cache/static/js/2.3123b45d.chunk.js.map",
+    "main.css": "/react-clear-cache/static/css/main.66624d01.chunk.css",
+    "main.js": "/react-clear-cache/static/js/main.ad03ed07.chunk.js",
+    "main.js.map": "/react-clear-cache/static/js/main.ad03ed07.chunk.js.map",
+    "runtime-main.js": "/react-clear-cache/static/js/runtime-main.56183935.js",
+    "runtime-main.js.map": "/react-clear-cache/static/js/runtime-main.56183935.js.map",
+    "static/js/2.bc914987.chunk.js": "/react-clear-cache/static/js/2.bc914987.chunk.js",
+    "static/js/2.bc914987.chunk.js.map": "/react-clear-cache/static/js/2.bc914987.chunk.js.map",
     "index.html": "/react-clear-cache/index.html",
-    "precache-manifest.afc48b39a6d580422de322de162b9db5.js": "/react-clear-cache/precache-manifest.afc48b39a6d580422de322de162b9db5.js",
+    "precache-manifest.249a9d0a332c3de5a5b62507dfe7d5fd.js": "/react-clear-cache/precache-manifest.249a9d0a332c3de5a5b62507dfe7d5fd.js",
     "service-worker.js": "/react-clear-cache/service-worker.js",
-    "static/css/main.37e69313.chunk.css.map": "/react-clear-cache/static/css/main.37e69313.chunk.css.map",
-    "static/media/logo.svg": "/react-clear-cache/static/media/logo.5d5d9eef.svg"
-  }
+    "static/css/main.66624d01.chunk.css.map": "/react-clear-cache/static/css/main.66624d01.chunk.css.map",
+    "static/js/2.bc914987.chunk.js.LICENSE.txt": "/react-clear-cache/static/js/2.bc914987.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-clear-cache/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56183935.js",
+    "static/js/2.bc914987.chunk.js",
+    "static/css/main.66624d01.chunk.css",
+    "static/js/main.ad03ed07.chunk.js"
+  ]
 }
